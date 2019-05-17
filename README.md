@@ -13,11 +13,12 @@
 - [microsoft azure api-design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [microsoft api-guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 - [paypal api-style-guide](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
-- [RFC7231 - Http Semantics and Content](https://tools.ietf.org/html/rfc7231)
-- [jsonapi](http://jsonapi.org/format/)
-- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
-- [rest-api-design-getting-a-resource-through-rest-with-different-parameters-but](https://stackoverflow.com/questions/20381976/rest-api-design-getting-a-resource-through-rest-with-different-parameters-but)
+- [rest-api-design-getting-a-resource-with-multiple-possible-identifiers](https://stackoverflow.com/questions/20381976/rest-api-design-getting-a-resource-through-rest-with-different-parameters-but)
 - [hyphen-underscore-or-camelcase-as-word-delimiter-in-uris](https://stackoverflow.com/questions/10302179/hyphen-underscore-or-camelcase-as-word-delimiter-in-uris)
+- [RFC7231 - Http Semantics and Content](https://tools.ietf.org/html/rfc7231)
+- [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
 - [github api-v3](https://developer.github.com/v3/)
+- [jsonapi](http://jsonapi.org/format/)
+
 
 
