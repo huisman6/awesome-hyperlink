@@ -20,5 +20,8 @@
 - [github api-v3](https://developer.github.com/v3/)
 - [jsonapi](http://jsonapi.org/format/)
 
-
+## java8 typesafe lib design
+- [emulating-property-literals-with-java-8-method-references](http://in.relation.to/2016/04/14/emulating-property-literals-with-java-8-method-references/)
+- [lambda-parameter-names-with-reflection](https://benjiweber.co.uk/blog/2015/08/17/lambda-parameter-names-with-reflection/)
+- [lambda-type-references-PuppetExample](https://github.com/benjiman/lambda-type-references/blob/master/src/test/java/com/benjiweber/PuppetExample.java)
 
