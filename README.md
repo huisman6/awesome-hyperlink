@@ -6,7 +6,7 @@
 - [managing-hierarchical-data-in-mysql](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
 - [database-structure-for-tree-data-structure](https://stackoverflow.com/questions/935098/database-structure-for-tree-data-structure)
 
-## restfull api design
+## restful api design
 - [best-practices-for-a-pragmatic-restful-api](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [restful-api-guidelines](https://byrondover.github.io/post/restful-api-guidelines)
 - [api-design-guidelines](https://www.moesif.com/blog/api-guide/api-design-guidelines/)
