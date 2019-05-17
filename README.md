@@ -8,7 +8,6 @@
 
 ## restful api design
 - [best-practices-for-a-pragmatic-restful-api](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-- [restful-api-guidelines](https://byrondover.github.io/post/restful-api-guidelines)
 - [api-design-guidelines](https://www.moesif.com/blog/api-guide/api-design-guidelines/)
 - [the-api-checklist](https://mathieu.fenniak.net/the-api-checklist/)
 - [microsoft azure api-design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
