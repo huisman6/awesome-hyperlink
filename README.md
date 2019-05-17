@@ -25,3 +25,6 @@
 - [lambda-parameter-names-with-reflection](https://benjiweber.co.uk/blog/2015/08/17/lambda-parameter-names-with-reflection/)
 - [lambda-type-references-PuppetExample](https://github.com/benjiman/lambda-type-references/blob/master/src/test/java/com/benjiweber/PuppetExample.java)
 
+## java "self-explanatory" paradigm
+- [Google Guava](https://github.com/google/guava/wiki)
+- [Hamcrest Matchers](http://hamcrest.org/JavaHamcrest/tutorial)
