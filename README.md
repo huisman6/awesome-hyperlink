@@ -18,5 +18,6 @@
 - [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
 - [rest-api-design-getting-a-resource-through-rest-with-different-parameters-but](https://stackoverflow.com/questions/20381976/rest-api-design-getting-a-resource-through-rest-with-different-parameters-but)
 - [hyphen-underscore-or-camelcase-as-word-delimiter-in-uris](https://stackoverflow.com/questions/10302179/hyphen-underscore-or-camelcase-as-word-delimiter-in-uris)
+- [github api-v3](https://developer.github.com/v3/)
 
 
