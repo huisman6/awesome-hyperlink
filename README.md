@@ -5,6 +5,7 @@
 - [modified-preorder-tree-traversal-django](https://www.caktusgroup.com/blog/2016/01/04/modified-preorder-tree-traversal-django/)
 - [managing-hierarchical-data-in-mysql](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
 - [database-structure-for-tree-data-structure](https://stackoverflow.com/questions/935098/database-structure-for-tree-data-structure)
+- [moving-subtrees-in-closure-table](https://www.percona.com/blog/2011/02/14/moving-subtrees-in-closure-table/)
 
 ## restful api design
 - [best-practices-for-a-pragmatic-restful-api](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
