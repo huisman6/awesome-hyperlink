@@ -30,3 +30,4 @@
 ## java "self-explanatory" paradigm
 - [Google Guava](https://github.com/google/guava/wiki)
 - [Hamcrest Matchers](http://hamcrest.org/JavaHamcrest/tutorial)
+- [creating-internal-dsls-java](https://dzone.com/articles/creating-internal-dsls-java)
