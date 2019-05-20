@@ -6,6 +6,7 @@
 - [managing-hierarchical-data-in-mysql](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/)
 - [database-structure-for-tree-data-structure](https://stackoverflow.com/questions/935098/database-structure-for-tree-data-structure)
 - [moving-subtrees-in-closure-table](https://www.percona.com/blog/2011/02/14/moving-subtrees-in-closure-table/)
+- [closure-table-sql-segment](https://gist.github.com/emmanuel/1004087/999411ba639df4b89c7a8cd94700877c16c8fa84)
 
 ## restful api design
 - [best-practices-for-a-pragmatic-restful-api](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
