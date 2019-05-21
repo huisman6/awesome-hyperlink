@@ -32,3 +32,9 @@
 - [Hamcrest Matchers](http://hamcrest.org/JavaHamcrest/tutorial)
 - [creating-internal-dsls-java](https://dzone.com/articles/creating-internal-dsls-java)
 - [querydsl](https://github.com/querydsl/querydsl)
+
+## java entity to dto
+[modelmapper](http://modelmapper.org/user-manual/)
+[dto-to-entity-and-entity-to-dto-conversion](http://appsdeveloperblog.com/dto-to-entity-and-entity-to-dto-conversion/)
+
+
