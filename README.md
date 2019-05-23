@@ -40,4 +40,4 @@
 ## api gateway
 - [open-sourcing-zuul-2](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
 - [spring-cloud-gateway](https://spring.io/projects/spring-cloud-gateway)
-- [Zuul2-Getting-Started-2.0](https://github.com/Netflix/zuul/wiki/Getting-Started-2.0)
+- [zuul-Getting-Started-2.0](https://github.com/Netflix/zuul/wiki/Getting-Started-2.0)
