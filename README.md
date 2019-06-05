@@ -41,3 +41,7 @@
 - [open-sourcing-zuul-2](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
 - [spring-cloud-gateway](https://spring.io/projects/spring-cloud-gateway)
 - [zuul-Getting-Started-2.0](https://github.com/Netflix/zuul/wiki/Getting-Started-2.0)
+
+## springboot
+- [Spring-Boot-Configuration-Binding](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding)
+
