@@ -50,6 +50,18 @@
 ## springboot
 - [Spring-Boot-Configuration-Binding](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding)
 
+## jvm / gc /memory
+- [Java Platform, Standard Edition HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)
+- [Java HotSpot Garbage Collection](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-140228.html)
+- [Memory Management in the Java HotSpot Virtual Machine - Oracle](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
+
+## concurrency / lock-free
+
+- [LMAX Disruptor](http://lmax-exchange.github.io/disruptor/)
+- [Disruptor Whitepaper](http://lmax-exchange.github.com/disruptor/files/Disruptor-1.0.pdf)
+
+
 ## Reactive  Paradigm
 - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+
 
