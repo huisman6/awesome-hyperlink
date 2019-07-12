@@ -51,9 +51,12 @@
 - [Spring-Boot-Configuration-Binding](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-Configuration-Binding)
 
 ## jvm / gc /memory
+- [Java Threads and Locks](https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html)
 - [Java Platform, Standard Edition HotSpot Virtual Machine Garbage Collection Tuning Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/index.html)
 - [Java HotSpot Garbage Collection](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-140228.html)
 - [Memory Management in the Java HotSpot Virtual Machine - Oracle](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
+- [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
+
 
 ## concurrency / lock-free
 
