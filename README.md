@@ -61,7 +61,7 @@
 
 
 ## concurrency / lock-free
-
+- [Concurrency Property Checklist](http://gee.cs.oswego.edu/dl/cpj/prop.html)
 - [LMAX Disruptor](http://lmax-exchange.github.io/disruptor/)
 - [Disruptor Whitepaper](http://lmax-exchange.github.com/disruptor/files/Disruptor-1.0.pdf)
 
