@@ -3,6 +3,10 @@
 ## visualising software architecture
 - [c4model](https://c4model.com/)
 - [draw.io offline](https://about.draw.io/integrations/#integrations_offline)
+- [C4-architecture-model infoq](https://www.infoq.com/articles/C4-architecture-model/) 
+- [用于软件架构的 C4 模型](https://www.infoq.cn/article/C4-architecture-model/)
+- [软件架构图的艺术](https://www.infoq.cn/article/crafting-architectural-diagrams/)
+
 
 ## http benchmarking
 - [wrk2](https://github.com/giltene/wrk2/wiki/Installing-wrk2-on-Mac)
