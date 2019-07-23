@@ -1,5 +1,9 @@
 # awesome-hyperlink
 
+## visualising software architecture
+- [c4model](https://c4model.com/)
+- [draw.io offline](https://about.draw.io/integrations/#integrations_offline)
+
 ## http benchmarking
 - [wrk2](https://github.com/giltene/wrk2/wiki/Installing-wrk2-on-Mac)
 - [wrk](https://github.com/wg/wrk)
