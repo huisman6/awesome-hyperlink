@@ -66,7 +66,7 @@
 - [Java HotSpot Garbage Collection](https://www.oracle.com/technetwork/java/javase/tech/index-jsp-140228.html)
 - [Memory Management in the Java HotSpot Virtual Machine - Oracle](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
 - [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
-
+- [g1gc-fundamentals-lessons-from-taming-garbage-collection](https://product.hubspot.com/blog/g1gc-fundamentals-lessons-from-taming-garbage-collection)
 
 ## concurrency / lock-free
 - [Concurrency Property Checklist](http://gee.cs.oswego.edu/dl/cpj/prop.html)
