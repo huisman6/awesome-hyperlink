@@ -78,4 +78,5 @@
 - [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 ## Linux
+- [memory-part-1-memory-types](https://techtalk.intersec.com/2013/07/memory-part-1-memory-types/)
 - [memory-part-2-understanding-process-memory](https://techtalk.intersec.com/2013/07/memory-part-2-understanding-process-memory/)
