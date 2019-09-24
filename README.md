@@ -67,6 +67,7 @@
 - [Memory Management in the Java HotSpot Virtual Machine - Oracle](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
 - [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
 - [g1gc-fundamentals-lessons-from-taming-garbage-collection](https://product.hubspot.com/blog/g1gc-fundamentals-lessons-from-taming-garbage-collection)
+- [how-we-learned-to-exploit-java-in-docker](https://itnesweb.com/article/how-we-learned-to-exploit-java-in-docker)
 
 ## concurrency / lock-free
 - [Concurrency Property Checklist](http://gee.cs.oswego.edu/dl/cpj/prop.html)
