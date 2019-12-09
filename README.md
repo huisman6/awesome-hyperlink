@@ -7,6 +7,8 @@
 - [用于软件架构的 C4 模型](https://www.infoq.cn/article/C4-architecture-model/)
 - [软件架构图的艺术](https://www.infoq.cn/article/crafting-architectural-diagrams/)
 
+## http2
+- [Spring Framework Http2 Support](https://github.com/spring-projects/spring-framework/wiki/HTTP-2-support)
 
 ## http benchmarking
 - [wrk2](https://github.com/giltene/wrk2/wiki/Installing-wrk2-on-Mac)
