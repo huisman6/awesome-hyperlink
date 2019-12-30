@@ -89,7 +89,7 @@
 - [regex-tutorial-a-simple-cheatsheet-by-examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 ## DNS
 
--[DNS RFCs](https://www.zytrax.com/books/dns/apd/)
+- [DNS RFCs](https://www.zytrax.com/books/dns/apd/)
 
 ## HTTP
 
