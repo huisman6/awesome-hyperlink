@@ -95,4 +95,6 @@
 
 - [HTTP Resources_and_specifications](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications)
 
-
+## Cache Design
+- [design-of-a-modern-cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
+- [concurrentlinkedhashmap design](https://github.com/ben-manes/concurrentlinkedhashmap/wiki/Design)
