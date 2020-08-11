@@ -97,6 +97,7 @@
 - [how-tcp-backlog-works-in-linux](http://veithen.io/2014/01/01/how-tcp-backlog-works-in-linux.html)
 - [how-to-get-to-the-bottom-of-network-timeout-issues_595248](https://www.alibabacloud.com/blog/how-to-get-to-the-bottom-of-network-timeout-issues_595248)
 - [snmp-monitoring-via-oids-mibs](https://blog.paessler.com/snmp-monitoring-via-oids-mibs)
+- [the-effect-of-magic-backlog-parameters-on-tcp-connection-establishment](https://developpaper.com/the-effect-of-magic-backlog-parameters-on-tcp-connection-establishment/)
 
 ## HTTP
 
