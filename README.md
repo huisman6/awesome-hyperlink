@@ -102,6 +102,7 @@
 - [the-story-of-one-latency-spike](https://blog.cloudflare.com/the-story-of-one-latency-spike/)
 - [optimizing-web-servers-for-high-throughput-and-low-latency](https://dropbox.tech/infrastructure/optimizing-web-servers-for-high-throughput-and-low-latency)
 - [linux-tcp-rto-min-max-and-tcp-retries2](https://pracucci.com/linux-tcp-rto-min-max-and-tcp-retries2.html)
+- [Kernel ip-sysctl ](https://www.kernel.org/doc/Documentation/networking/ip-sysctl.txt)
 ## HTTP
 
 - [HTTP Resources_and_specifications](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications)
