@@ -113,7 +113,7 @@
 
 ## JVM
 
-[JVM-startup](http://blog.gilliard.lol/2017/10/02/JVM-startup.html)
-[Improve docker container detection and resource configuration usage](https://bugs.openjdk.java.net/browse/JDK-8146115)
+- [JVM-startup](http://blog.gilliard.lol/2017/10/02/JVM-startup.html)
+- [JDK-8146115：Improve docker container detection and resource configuration usage](https://bugs.openjdk.java.net/browse/JDK-8146115)
 
 
