@@ -110,3 +110,10 @@
 ## Cache Design
 - [design-of-a-modern-cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 - [concurrentlinkedhashmap design](https://github.com/ben-manes/concurrentlinkedhashmap/wiki/Design)
+
+## JVM
+
+[JVM-startup](http://blog.gilliard.lol/2017/10/02/JVM-startup.html)
+[Improve docker container detection and resource configuration usage](https://bugs.openjdk.java.net/browse/JDK-8146115)
+
+
