@@ -116,4 +116,6 @@
 - [JVM-startup](http://blog.gilliard.lol/2017/10/02/JVM-startup.html)
 - [JDK-8146115：Improve docker container detection and resource configuration usage](https://bugs.openjdk.java.net/browse/JDK-8146115)
 
+## Kafka
 
+- [kafka-rebalancing](https://chrzaszcz.dev/2019/06/kafka-rebalancing/)
