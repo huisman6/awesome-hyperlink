@@ -70,6 +70,13 @@
 - [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/)
 - [g1gc-fundamentals-lessons-from-taming-garbage-collection](https://product.hubspot.com/blog/g1gc-fundamentals-lessons-from-taming-garbage-collection)
 - [how-we-learned-to-exploit-java-in-docker](https://itnesweb.com/article/how-we-learned-to-exploit-java-in-docker)
+- [JVM-startup](http://blog.gilliard.lol/2017/10/02/JVM-startup.html)
+- [JDK-8146115：Improve docker container detection and resource configuration usage](https://bugs.openjdk.java.net/browse/JDK-8146115)
+
+## docker / k8s / prometheus
+
+- [cpu-limits-and-aggressive-throttling-in-kubernetes](https://medium.com/omio-engineering/cpu-limits-and-aggressive-throttling-in-kubernetes-c5b20bd8a718)
+- [k8s-monitor-pod-cpu-and-memory-usage-with-prometheus](https://itnext.io/k8s-monitor-pod-cpu-and-memory-usage-with-prometheus-28eec6d84729)
 
 ## concurrency / lock-free
 - [Concurrency Property Checklist](http://gee.cs.oswego.edu/dl/cpj/prop.html)
@@ -103,6 +110,7 @@
 - [optimizing-web-servers-for-high-throughput-and-low-latency](https://dropbox.tech/infrastructure/optimizing-web-servers-for-high-throughput-and-low-latency)
 - [linux-tcp-rto-min-max-and-tcp-retries2](https://pracucci.com/linux-tcp-rto-min-max-and-tcp-retries2.html)
 - [Kernel ip-sysctl ](https://www.kernel.org/doc/Documentation/networking/ip-sysctl.txt)
+
 ## HTTP
 
 - [HTTP Resources_and_specifications](https://developer.mozilla.org/en-US/docs/Web/HTTP/Resources_and_specifications)
@@ -110,11 +118,6 @@
 ## Cache Design
 - [design-of-a-modern-cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 - [concurrentlinkedhashmap design](https://github.com/ben-manes/concurrentlinkedhashmap/wiki/Design)
-
-## JVM
-
-- [JVM-startup](http://blog.gilliard.lol/2017/10/02/JVM-startup.html)
-- [JDK-8146115：Improve docker container detection and resource configuration usage](https://bugs.openjdk.java.net/browse/JDK-8146115)
 
 ## Kafka
 
