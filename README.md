@@ -82,6 +82,7 @@
 - [Concurrency Property Checklist](http://gee.cs.oswego.edu/dl/cpj/prop.html)
 - [LMAX Disruptor](http://lmax-exchange.github.io/disruptor/)
 - [Disruptor Whitepaper](http://lmax-exchange.github.com/disruptor/files/Disruptor-1.0.pdf)
+- [how-does-lmaxs-disruptor-pattern-work](https://stackoverflow.com/questions/6559308/how-does-lmaxs-disruptor-pattern-work)
 
 
 ## Reactive  Paradigm
